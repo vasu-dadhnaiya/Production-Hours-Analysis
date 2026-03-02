@@ -1,0 +1,25 @@
+https://youtu.be/vRPYMB0Y-PI?si=VMedf97V6_k-f9ej
+
+
+
+SQL
+
+1) Find the total amount earned by all employees in each division
+
+2) Get the details of employees who have worked more hours than planned
+
+3) List the top 10 employees with the highest overtime hours
+
+4) Find the employees who have not worked any overtime (Overtime Hours = 0)
+
+5) Get the average hourly rate of employees in each city:
+
+6) Find the employees who have unworked hours greater than 10:
+
+7) Get the total overtime amount paid to employees in each division
+
+8) Find employees who have worked more than 40 hours in total
+
+9) Get the details of employees who worked less than the planned hours:
+
+10) List employees whose total worked hours exceed the sum of their planned hours and overtime hours:
